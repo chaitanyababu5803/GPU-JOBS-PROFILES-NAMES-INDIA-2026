@@ -60,3 +60,23 @@ HIP	AMD	High	High (Essential for AMD roles)
 SYCL	All (Intel/NV/AMD)	Medium	Moderate (Growing in HPC)
 HLSL/GLSL	All (Gaming)	Medium	Niche (Graphics/Gaming only)
 Note for your role (GPU Emulation DV): While you may not write 10,000 lines of CUDA, you must be able to read and debug CUDA kernels to verify that the GPU hardware/emulation model is executing instructions correctly.
+
+*************************
+Experience with visual-SLAM or LiDAR-based SLAM systems.
+Knowledge of bpy (Blender Python API) scripting for automation and 3D workflows.
+Experience with robotics frameworks (ROS/ROS2) or real-time sensor data processing.
+
+
+*******************
+Job description
+
+2-5 years of experience in C++ development
+Hands-on experience with NVIDIA CUDA programming
+Understanding of GPU architecture and parallel programming concepts
+Knowledge of memory models (global, shared, constant memory)
+Experience with Linux/Unix environments
+Familiarity with multi-threading concepts
+Strong problem-solving and debugging skills
+Understanding of data structures and algorithms
+
+
