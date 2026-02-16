@@ -1,0 +1,19 @@
+GPU Performance Engineer: Focuses on optimizing hardware for specific workloads like mobile gaming or AI. FOR GAMES TOOLS/SKILLS REQUIRED
+A GPU Performance Engineer focused on gaming bridges the gap between hardware architecture and real-world game execution. In this role, you ensure that the newest game engines and rendering techniques run efficiently on the hardware by identifying and eliminating bottlenecks in the graphics pipeline. 
+Core Skills Required
+Low-Level Programming: Mastery of C++ and C is essential for high-performance software and driver development. Proficiency in scripting languages like Python is critical for automating performance data analysis and benchmarking suites.
+Graphics APIs & Shaders: Deep knowledge of modern APIs like DirectX 12, Vulkan, and Metal. You must be able to write and optimize shaders using HLSL or GLSL.
+GPU Architecture Knowledge: A fundamental understanding of GPU microarchitecture, including memory hierarchies (caches, VRAM), execution units (shaders, ROPs), and warp/wavefront scheduling.
+Performance Engineering: Expertise in identifying bottlenecks across compute, memory, and interconnects. Knowledge of parallel programming models like CUDA (NVIDIA) or ROCm (AMD) is often required, even for gaming-focused roles. 
+Essential Tools
+Profiling & Debugging:
+NVIDIA Nsight Systems/Graphics: Used for deep-dive performance analysis on NVIDIA hardware.
+PIX on Windows: Microsoft's primary tool for tuning and debugging DirectX 12 games.
+RenderDoc: A popular open-source frame debugger for analyzing individual frames of a game.
+Radeon GPU Profiler (RGP): AMD’s tool for visualizing GPU workloads and finding hardware-level bottlenecks.
+Benchmarking & Analysis:
+3DMark: Standard industry benchmark for assessing GPU stability and graphics handling.
+Performance Counters: Using hardware-specific monitors to track real-time utilization metrics like occupancy and memory bandwidth.
+Game Engines: Proficiency in Unreal Engine or Unity is often required to understand how proprietary engine tools interact with GPU drivers. 
+Would you like to know more about the specific interview process for these roles at companies like NVIDIA or Qualcomm?
+
