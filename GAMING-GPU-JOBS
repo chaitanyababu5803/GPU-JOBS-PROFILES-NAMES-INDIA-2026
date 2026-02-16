@@ -17,3 +17,112 @@ Performance Counters: Using hardware-specific monitors to track real-time utiliz
 Game Engines: Proficiency in Unreal Engine or Unity is often required to understand how proprietary engine tools interact with GPU drivers. 
 Would you like to know more about the specific interview process for these roles at companies like NVIDIA or Qualcomm?
 
+
+
+***********************
+Principal Gameplay Engineer - Graphics
+8+ Years industry experience as a as a Software or Graphics/Rendering Engineer
+Strong understanding of real-time rendering algorithms, GPU architecture, and modern graphics pipelines.
+Good experience with profiling and with optimising for most of the following: frame rate, hitching, loading times, memory usage and storage space.
+Expertise with debugging a wide range of graphical issues.
+Competent with art and rendering pipelines (including lighting, VFX, post-processing, LODs, texture compression, and PBR).
+Strong Programming skills with C# or C++.
+Hands-on experience with graphics APIs and shader languages HLSL / GLSL / Shader Graph / Compute shaders
+Unity or Unreal Engine experience(shaders, VFX Graph, material systems, rendering engine)
+Familiarity with complexities of shipping games to Android & iOS devices on different OS, chipsets and hardware specifications.
+Experience with games as service / live operations.
+Unity or Unreal Engine experience
+Experience with Addressables/Asset Bundles, GPU-driven rendering
+
+***************************
+2D/3D graphics, GPU compute, rendering optimization-Bangalore
+Job description
+Skills:
+
+OpenGL, OpenGL ES, EGL; 2D blitting, color formats; GPU compute (GPGPU, OpenCL, CUDA); virtualization; GPU optimization, latency tuning; Adreno Profiler; automotive navigation (Elektrobit, TomTom, Garmin, etc.); graphics frameworks (Kanzi, Qt)
+
+
+************************
+Senior Pytorch Engineer (Distributed Training)
+Job description
+https://www.naukri.com/job-listings-senior-pytorch-engineer-distributed-training-hirepage-solutions-hyderabad-hyderabad-gurugram-bengaluru-4-to-8-years-120226007516?src=jobsearchDesk&sid=1771276696655169_1&xp=17&px=1&nignbevent_src=jobsearchDeskGNB
+
+We are seeking a highly skilled Senior PyTorch Engineer (Distributed Training) to join our AI/ML team. The ideal candidate will have strong hands-on expertise in PyTorch Core, PyTorch Lightning, and Distributed Data Parallel (DDP) to build scalable multi-GPU and multi-node deep learning systems.
+
+You will work on designing and training large-scale deep learning models powering high-impact, production-grade AI systems serving millions of users.
+
+Key Responsibilities
+
+Design, develop, and train advanced deep learning models using PyTorch
+Implement scalable training pipelines using PyTorch Lightning
+Build and optimize Distributed Data Parallel (DDP) workflows
+Enable efficient multi-GPU and multi-node training
+Optimize training performance (memory usage, GPU utilization, throughput)
+Build custom datasets, data loaders, and preprocessing pipelines
+Implement and tune loss functions, optimizers, and learning rate schedulers
+Debug gradient flow issues, numerical instabilities, and bottlenecks
+Collaborate with Data Scientists, Research Engineers, and Platform teams
+Ensure modular, production-ready, and scalable code architecture
+Contribute to model validation, experiment tracking, and reproducibility
+Required Skills & Technical Expertise
+
+Strong hands-on experience in PyTorch Core
+Tensors, Autograd, Custom Modules
+Optimizers and Loss Functions
+Custom Datasets & DataLoaders
+Expertise in PyTorch Lightning
+Modular training loops
+Scalable distributed setups
+Deep understanding of Distributed Data Parallel (DDP)
+Multi-GPU synchronization
+Gradient reduction mechanisms
+Performance tuning
+Experience training models on GPU-based infrastructure
+Strong Python programming skills
+Solid fundamentals in Deep Learning (CNNs, RNNs, Transformers, Optimization techniques)
+Experience working in production ML environments
+Good to Have
+
+Multi-node distributed training experience
+Familiarity with CUDA, NCCL, GPU profiling tools
+Exposure to inference optimization & model deployment
+Knowledge of experiment tracking tools (MLflow, Weights & Biases, etc.)
+Experience handling large-scale datasets
+
+
+
+******************************
+HPC CUDA Engineer
+Job description
+Job Description
+
+
+**mandatory
+SNRequired InformationDetails1Role**HPC, CUDA Engineer2Required Technical Skill Set**HPC, CUDA, Performance, Shell/Python, Linux (One)3Desired
+
+Experience Range**3 - 12 yrs 4
+
+Location of Requirement Bangalore
+
+
+Desired Competencies (Technical/Behavioral Competency)Must-Have**
+
+Programming skills (C, C++, Fortran) and Scripting (Shell-scripting, Python/Perl)
+Experience with MPI and OpenMP Familiarity with troubleshooting Intel and GNU compilers.
+Experience in running HPC applications at scale using MPI/OpenMP/multi-threading.
+Good-to-Have
+
+Good understanding of processor architecture like x86_64 architecture
+Good understanding of benchmarking concepts, methodologies and suites.
+"To-do attitude"
+
+
+SNResponsibility of / Expectations from the Role
+
+1Hands-on experience on providing real time solutions for one or more HPC/scientific applications.
+
+2Hand-on workload assessment, application profiling and performance tuning,
+
+3Hands-on expertise in Linux (preferred or any UNIX), Interconnect, compiler, profiler, performance library
+
+*************************
